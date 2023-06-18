@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+cpu_rtd_test.egg-info/PKG-INFO
+cpu_rtd_test.egg-info/SOURCES.txt
+cpu_rtd_test.egg-info/dependency_links.txt
+cpu_rtd_test.egg-info/requires.txt
+cpu_rtd_test.egg-info/top_level.txt

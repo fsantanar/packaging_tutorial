@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+example_package_fsantanar.egg-info/PKG-INFO
+example_package_fsantanar.egg-info/SOURCES.txt
+example_package_fsantanar.egg-info/dependency_links.txt
+example_package_fsantanar.egg-info/requires.txt
+example_package_fsantanar.egg-info/top_level.txt
